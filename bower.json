@@ -14,5 +14,8 @@
     "test",
     "tests"
   ],
-  "registry": "http://localhost:5678" 
+  "registry": {
+			"search":"http://localhost:5678",
+			"register":"http://localhost:5678"
+  }
 }
